@@ -3,10 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f29aabace2b4a4bb4cb94053b17e85af",
-"assets/AssetManifest.bin.json": "3d1623b353847ce28bb826e74ce0eddb",
-"assets/AssetManifest.json": "fae90832eb63d09e10fbf4043b24a669",
+const RESOURCES = {"assets/AssetManifest.bin": "64d1a5ddb18011ce0a9f202d543de442",
+"assets/AssetManifest.bin.json": "827cbf51bdab3c8ffb71715a0f8d1f26",
+"assets/AssetManifest.json": "60fc7b45085859966d0db04e1f0c3598",
 "assets/assets/deviceProfiles/CAFE_8005.json": "60e47d8f3340ce5db6213a3bc4220e7a",
+"assets/assets/deviceProfiles/CAFE_8006.json": "8aed814da4b04a109cdddffa844e33f8",
+"assets/assets/deviceProfiles/CAFE_8007.json": "628fd4796881fb3ad0a44ae8fa8bf8ef",
 "assets/assets/deviceProfiles/CAFE_8010.json": "28429d498e098daaa820d1bcc8d62358",
 "assets/assets/fonts/MiSans-Regular.ttf": "7a19b9504edc93c2d3c285804d1b0ca5",
 "assets/assets/fonts/OpenCherry-Regular.ttf": "bdc7f5967b218280a8c66940f3724f20",
@@ -36,9 +38,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "f29aabace2b4a4bb4cb94053b17e85af
 "icons/Icon-512.png": "8b154d5eece96babbc2028b6402b0d48",
 "icons/Icon-maskable-192.png": "373170ff478e955c0a920e4d573c7b1d",
 "icons/Icon-maskable-512.png": "8b154d5eece96babbc2028b6402b0d48",
-"index.html": "da341f75dca017fe3bd6c2b48ea08295",
-"/": "da341f75dca017fe3bd6c2b48ea08295",
-"main.dart.js": "50b241434795ad826d071e7b4c4f13f1",
+"index.html": "174f00595bb46af25ddaf748a041c40c",
+"/": "174f00595bb46af25ddaf748a041c40c",
+"main.dart.js": "8db7fbad2960aed4b3c45cbb5de3b699",
 "manifest.json": "f024dfe75bacb80c3e5fcadf82fd73e7",
 "version.json": "8a1a5d2f8390c61ca4c2025b0869957e"};
 // The application shell files that are downloaded before a service worker can
